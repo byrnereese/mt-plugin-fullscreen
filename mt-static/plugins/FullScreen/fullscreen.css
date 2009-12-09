@@ -9,3 +9,6 @@
 #editor-content .editor-toolbar .fullscreen {
   background-image: url('fullscreen-icon.gif');
 }
+.edit-template .fullscreen #title-field #title {
+  width: 890px;
+}

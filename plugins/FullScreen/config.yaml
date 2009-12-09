@@ -4,7 +4,7 @@ plugin_author: 'Endevver, LLC.'
 plugin_link: 'http://endevver.com/plugins/full-screen/'
 description: 'Add a link to the entry editor to expand the editor to the full width of the page.'
 
-version: 1.0
+version: 1.0.1
 
 callbacks:
     MT::App::CMS::template_source.edit_entry: $FullScreen::FullScreen::Plugin::xfrm_edit
